@@ -17,7 +17,7 @@ Qualithon Treasure Hunt Web Application
 ```
   $> python3 ws-server.py
 ```
-4. Point browser to http://localhost:5000
+4. Point browser to http://localhost:5002
 
 # Contact
 Ramandeep Singh and Prashant Shukla in Automation QTribe
