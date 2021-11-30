@@ -13,6 +13,7 @@ var captcha = function(){
 
 $(document).ready(function(){
     console.log('captcha ready();');
+    console.log('{{word}}');
     captcha();
 });
 
